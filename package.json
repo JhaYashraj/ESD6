@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^5.13.14",
+    "npx": "^10.2.2"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash06J/ESD6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yash06J/ESD6/issues"
+  },
+  "homepage": "https://github.com/Yash06J/ESD6#readme",
+  "description": ""
+}

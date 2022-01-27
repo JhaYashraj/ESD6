@@ -1,0 +1,11 @@
+https://codeinsightacademy.com/blog/javascript/dma-project-cheat-sheet/
+
+
+
+For UI and Mongodb atlas connection
+
+
+https://codeinsightacademy.com/blog/javascript/deploy-node-js-app-on-heroku/
+
+
+For app deployment on heroku
